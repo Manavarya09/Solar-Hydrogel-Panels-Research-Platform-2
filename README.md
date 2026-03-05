@@ -3,3 +3,7 @@
 ## Section 1
 
 Auto-generated commit 1
+
+## Section 2
+
+Auto-generated commit 2
