@@ -11,3 +11,7 @@ Auto-generated commit 2
 ## Section 3
 
 Auto-generated commit 3
+
+## Section 4
+
+Auto-generated commit 4
